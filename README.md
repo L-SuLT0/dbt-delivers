@@ -1,2 +1,3 @@
 # dbt-delivers
 
+language: English
